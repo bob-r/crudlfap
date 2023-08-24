@@ -18,7 +18,7 @@ setup(
     keywords='django crud',
     install_requires=[
         'ryzom>=0.7.11,<0.8',
-        'django>=3.1,<3.2',
+        'django>=3.1',
         'django-tables2',
         'django-filter',
         'timeago',
